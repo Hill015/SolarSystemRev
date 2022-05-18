@@ -9,11 +9,8 @@ public class Main {
         FactorX.Star="10000";
 
 
-//        adding features to our sun
-        FeatureSun Xfact= new FeatureSun();
-        Xfact.color="green";
-        Xfact.radius="1000000000km";
-        Xfact.heat="309324934898kj";
+//        deleting features to our sun
+
 
 //        adding the features for star in the solar system
         FeatureStars FacX = new FeatureStars();
